@@ -1,8 +1,8 @@
 class Sigilcli < Formula
   desc "Extract Apple system symbols as clean SVG vectors"
   homepage "https://github.com/dannolan/sigilcli"
-  url "https://github.com/dannolan/sigilcli/archive/refs/tags/v1.0.1.tar.gz"
-  sha256 "65ed49a01453d4f482b7ab625e27954edefbe5b669186d2cbf35277386f65152"
+  url "https://github.com/dannolan/sigilcli/archive/refs/tags/v1.1.0.tar.gz"
+  sha256 "d4f420852e4fdf6cbc50b4cb4243e5e6a62f5d7e500c112d24440d797ec553fb"
   license "MIT"
 
   depends_on :macos
